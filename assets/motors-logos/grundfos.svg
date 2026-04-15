@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-label="Grundfos">
+  <rect width="900" height="260" fill="none"/>
+  <g fill="#0b3e86">
+    <path d="M126 132c0 27-22 49-49 49s-49-22-49-49 22-49 49-49 49 22 49 49Zm-79 0c0 17 13 30 30 30s30-13 30-30-13-30-30-30-30 13-30 30Z"/>
+    <path d="M153 79h32v34c0 29-17 52-54 52-31 0-55-22-55-53 0-32 25-54 57-54 16 0 30 6 41 16l-18 19c-6-6-14-10-23-10-14 0-26 10-26 29 0 18 11 28 25 28 11 0 20-5 22-14h-21V79Z"/>
+    <text x="210" y="168" font-family="Manrope, Arial, sans-serif" font-size="92" font-weight="800" letter-spacing="2">GRUNDFOS</text>
+  </g>
+</svg>
+

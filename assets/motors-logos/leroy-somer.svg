@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-label="Leroy-Somer">
+  <rect width="900" height="260" fill="none"/>
+  <g transform="translate(70,46)">
+    <path d="M118 6l82 0 0 42-82 0 0 88-48 0 0-88c0-23 13-42 48-42Z" fill="#0a8f7a"/>
+    <path d="M220 0h56v34h-56V0Zm0 50h56v126h-56V50Z" fill="#0a8f7a"/>
+    <g fill="#0a1624">
+      <text x="300" y="82" font-family="Manrope, Arial, sans-serif" font-size="88" font-weight="900" letter-spacing="1">LEROY</text>
+      <text x="300" y="168" font-family="Manrope, Arial, sans-serif" font-size="88" font-weight="900" letter-spacing="1">SOMER</text>
+    </g>
+  </g>
+</svg>
+
